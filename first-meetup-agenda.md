@@ -5,4 +5,5 @@
 * 7:05-7:20 - Beginner-friendly lightning talk (TBD)
 * 7:20-7:30 - Ice Breakers, break up into working groups
 * 7:30-8:45 - Work time
+  * For beginners, we can point them in the direction of good starter projects and encourage them to pair w/ other beginners
 * 8:45-9:00 - Thank everyone for coming, announce next meetup (sometime in March 2018), invite folks to #elm-la & meetup page to stay in touch
