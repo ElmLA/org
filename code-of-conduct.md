@@ -22,6 +22,8 @@ Give constructive, not critical feedback<sup>[3](#footnotes)</sup>. Feedback is 
 
 Ask people "Why?" so that you're listening to understand and not listening to form a response.
 
+When teaching someone something new, don't take their keyboard away. This is a common problem, but it happens more often to women. Oftentimes when someone asks a question instead of telling that person the answer, you take away the keyboard and type in the command yourself. Don't do this! It makes it much more difficult to learn and it makes the other person feel stupid and helpless. In general, give people a chance to learn how to do things themselves if they're interested in learning. You may think you're doing a friend a favor by fixing her Apache configuration while she's gone, but if she's trying to learn how to configure Apache, then you're not actually helping her.
+
 ## Enactment
 If somebody requests that you stop a certain behavior (even if said behavior is not explicitly covered in this document), you are expected to comply immediately. Don't get defensive; even if you didn't intend to offend, accept responsibility, consider apologizing, and work with the other party to fix the situation. A mistake is a chance to learn and/or teach. Use the opportunity to better the community.
 
@@ -30,4 +32,4 @@ Enforcement of the Code of Conduct is essential. If there is no enforcement, the
 ## Footnotes
 1. These Social Rules are borrowed primarily from [Digital Ocean](https://github.com/digitalocean/engineering-code-of-conduct/blob/master/README.md) and second hand from the [Recurse Center](https://www.recurse.com/manual#sec-environment). Both included here for completeness.
 2. http://geekfeminism.wikia.com/wiki/Microaggressions
-3. This point is paraphrased from a larger article called [“Criticism and Ineffective Feedback”](https://kateheddleston.com/blog/criticism-and-ineffective-feedback) by Kate Heddleston
+3. This point is paraphrased from a larger article called [“Criticism and Ineffective Feedback”](https://kateheddleston.com/blog/criticism-and-ineffective-feedback) by Kate Heddleston. The note on keyboards is from [HOWTO Encourage Women in Linux]("http://tldp.org/HOWTO/Encourage-Women-Linux-HOWTO/x168.html")
