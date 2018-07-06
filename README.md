@@ -4,6 +4,6 @@
 
 ### Current Elm LA Organizers:
 
-Zack Kourouma - @zack
-Anup Kishore - @anup
-Emma Cunningham - @emma
+* Zack Kourouma - @zack
+* Anup Kishore - @anup
+* Emma Cunningham - @emma
