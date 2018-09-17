@@ -7,7 +7,7 @@ By the end of this, you will:
 - Have your local development environment set up for writing Elm apps
 - Understand the basics of the Elm architecture and language
 - Have a sense of how to expand your knowledge by reading the Elm documentation
-- Be able to progress to the more advanced [Elm Camp](https://gist.github.com/emmacunningham/426ef4e038ce4203d790c3fe93754add), which builds on the foundation laid here by having you build an application that can make HTTP requests and parse JSON responses
+- Be able to progress to the more advanced [Elm Camp](./elm-camp.md), which builds on the foundation laid here by having you build an application that can make HTTP requests and parse JSON responses
 
 ## Let's goooo!
 
