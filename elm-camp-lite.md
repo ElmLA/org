@@ -14,10 +14,11 @@ By the end of this, you will:
 - Get your local dev env set up w/ tools installed
   - [Install elm](https://guide.elm-lang.org/install.html)
   - [elm-format](https://github.com/avh4/elm-format)
-  - Init project: see the starter project based on Derek Cuevas' excellent [elm-webpack-starter](https://github.com/ElmLA/elm-boilerplate)
+  - Init project: see Derek Cuevas' excellent [elm-0.19-boilerplate](https://github.com/DerekCuevas/elm-0.19-boilerplate)
 - Start with the basic calculator app in the [Elm lang guide](https://guide.elm-lang.org/architecture/buttons.html)
-- Review Elm architecture: how do values get updated within Elm?
-- Review [type signatures](https://guide.elm-lang.org/types/reading_types.html) in Elm so you can start reading docs on your own!
+  - Review Elm architecture: how do values get updated within Elm?
+    - Your turn: have the calculator increment/decrement by 5 instead of 1.
+  - Review [type signatures](https://guide.elm-lang.org/types/reading_types.html) in Elm so you can start reading docs on your own!
 - Replace basic calculator w/ input box; on input, should update value stored in the Model
   - Verify that this works by displaying the input value
   - Hint: look at the [elm-lang/html](http://package.elm-lang.org/packages/elm-lang/html/latest/)
@@ -35,7 +36,7 @@ Next, you'll build upon what you already have to add additional functionality.
 
 - No immutability and reliance on `map`, `foldr`, `filter`, etc. for iteration
 - Feel comfortable reading type annotations (e.g. able to read [documentation](http://package.elm-lang.org/packages/elm-lang/core/latest) and understand function type signatures)
-- Familiarity with `|>`, currying, `>>`
+- Familiarity with `|>`, currying, `>>` (see [here](https://guide.elm-lang.org/appendix/function_types.html))
 - Understanding of `Maybe`
 - Difference between `type` and `type alias`
 - installing Elm packages
