@@ -57,7 +57,7 @@ Next, you'll build upon what you already have to add additional functionality.
 
 ## Functional programming / type system / Elm lang learning objectives:
 
-- No immutability and reliance on `map`, `foldr`, `filter`, etc. for iteration
+- No mutation of data => using `map`, `foldr`, `filter`, etc. for iteration
 - Feel comfortable reading type annotations (e.g. able to read [documentation](http://package.elm-lang.org/packages/elm-lang/core/latest) and understand function type signatures)
 - Familiarity with `|>`, currying, `>>` (see [here](https://guide.elm-lang.org/appendix/function_types.html))
 - Understanding of [`Maybe`](https://package.elm-lang.org/packages/elm-lang/core/latest/Maybe)
