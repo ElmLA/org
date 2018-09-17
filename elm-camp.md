@@ -73,7 +73,7 @@ Recommended order of operations for approaching the project:
 
 **_Congrats!!! You've now completed Part 1 (and arguably the hardest part) of Elm Camp!_**
 
-<img src="https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif" />
+<img src="http://a.espncdn.com/combiner/i?img=/photo/2016/1024/r144525_800x320_5-2.jpg&w=800" width='100%'/>
 
 Next, you'll build upon what you already have to add additional functionality.
 
