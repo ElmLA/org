@@ -15,7 +15,7 @@ By the end of this, you will:
   - [Install elm](https://guide.elm-lang.org/install.html)
   - [elm-format](https://github.com/avh4/elm-format)
   - Init project: see the starter project based on Derek Cuevas' excellent [elm-webpack-starter](https://github.com/ElmLA/elm-boilerplate)
-- Start with the basic calculator app in the [Elm lang guide](https://guide.elm-lang.org/architecture/user_input/buttons.html)
+- Start with the basic calculator app in the [Elm lang guide](https://guide.elm-lang.org/architecture/buttons.html)
 - Review Elm architecture: how do values get updated within Elm?
 - Review [type signatures](https://guide.elm-lang.org/types/reading_types.html) in Elm so you can start reading docs on your own!
 - Replace basic calculator w/ input box; on input, should update value stored in the Model
