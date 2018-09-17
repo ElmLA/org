@@ -53,16 +53,14 @@ Recommended order of operations for approaching the project:
 
 - Get editor set up w/ tools installed
   - [elm-format](https://github.com/avh4/elm-format)
-  - Init project: see Derek Cuevas' excellent [elm-webpack-starter](https://github.com/DerekCuevas/elm-boilerplate)
-- Start with the basic calculator app in the [Elm lang guide](https://guide.elm-lang.org/architecture/user_input/buttons.html)
-- Replace basic calculator w/ input box; on input, should update value stored in the Model
-  - Verify that this works by displaying the input value
-  - Hint: look at the [elm-lang/html](http://package.elm-lang.org/packages/elm-lang/html/latest/)
+  - Init project: see the starter project based on [Derek Cuevas'](https://github.com/DerekCuevas/) excellent [elm-0.19-boilerplate](https://github.com/ElmLA/elm-0.19-boilerplate)
+- Start with the basic calculator app from the [Elm lang guide](https://guide.elm-lang.org/architecture/buttons.html)
+  - See [Elm Camp Lite](./elm-camp-lite.md) for a deep dive into the calculator app
 - On input submit, make GET request to GitHub API (for users) with search string
-  - Look at [elm-lang guide](https://guide.elm-lang.org/architecture/effects/http.html) for an introduction to HTTP requests
+  - Look at [elm-lang guide](https://guide.elm-lang.org/effects/http.html) for an introduction to HTTP requests
   - See [elm-lang/http docs](http://package.elm-lang.org/packages/elm-lang/http/latest)
 - Parse JSON response using decoders
-  - Use [elm-decode-pipeline](https://github.com/NoRedInk/elm-decode-pipeline)
+  - Use [elm-json-decode-pipeline](https://github.com/NoRedInk/elm-json-decode-pipeline)
   - [Elm-seeds video](https://elmseeds.thaterikperson.com/json-decode-pipeline) (8 min)
 - Display a list of the top 10 results on the page
   - Remember, things like `div` and `text` are functions! So, you can use them when `map`ping over values, etc.
@@ -73,14 +71,14 @@ Recommended order of operations for approaching the project:
 
 **_Congrats!!! You've now completed Part 1 (and arguably the hardest part) of Elm Camp!_**
 
-<img src="http://a.espncdn.com/combiner/i?img=/photo/2016/1024/r144525_800x320_5-2.jpg&w=800" width='100%'/>
+<img src="https://usatftw.files.wordpress.com/2017/05/screen-shot-2017-05-20-at-8-49-10-am.png?w=1000&h=600&crop=1" />
 
 Next, you'll build upon what you already have to add additional functionality.
 
 ## Part 2: Add routing (est. 1 day)
 
 - Add routing to your app so that the state of the application persists in the URL:
-  - See [this guide](https://www.elm-tutorial.org/en/07-routing/cover.html) on routing
+  - See [this guide](https://guide.elm-lang.org/webapps/navigation.html) on navigation and routing
   - home page: `/`
   - user search results: `/users/${username}`
   - user repo page: `/repos/${username}`
@@ -88,7 +86,7 @@ Next, you'll build upon what you already have to add additional functionality.
 ## Part 3: Working with JavaScript (est. 1 day)
 
 - Use localStorage (JS API) to persist data across page loads
-- Use [ports/subscriptions](https://guide.elm-lang.org/interop/javascript.html) to read/write localStorage from Elm
+- Use [ports/subscriptions](https://guide.elm-lang.org/interop/ports.html) to read/write localStorage from Elm
 
 ## Functional programming / type system / Elm lang learning objectives:
 
