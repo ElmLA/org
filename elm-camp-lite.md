@@ -1,5 +1,15 @@
 # Elm Camp Lite
 
+## NB
+
+Many of the links in this guide refer to Elm 0.18 code, which _should_ work on Elm 0.19. If they don't, here's a list of what has changed between Elm 0.18 and Elm 0.19:
+
+https://github.com/elm/compiler/blob/master/upgrade-docs/0.19.md
+
+Additionally, shadowing variables (naming your variable the same thing as something already in scope) is no longer allowed.
+
+## Introduction
+
 This document is intended to help you get your first Elm app up and running, and to get an overall understanding of how to continue making progress as you learn how to do more with Elm!
 
 By the end of this, you will:
