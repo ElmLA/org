@@ -16,6 +16,7 @@ By the end of this, you will:
   - [elm-format](https://github.com/avh4/elm-format)
   - Init project: see the starter project based on [Derek Cuevas'](https://github.com/DerekCuevas/) excellent [elm-0.19-boilerplate](https://github.com/ElmLA/elm-0.19-boilerplate)
 - Running the app
+  - `npm install`
   - `npm run dev`
   - Open up `localhost:3000`
   - elm-format will help you format as you go along
