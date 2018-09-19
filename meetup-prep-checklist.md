@@ -9,6 +9,7 @@ Based on prior meetups, this documents our current process for preparing for an 
   - [ ] Confirm that venue can accomodate our AV needs (projector, mic/sound if necessary)
   - [ ] Confirm that venue has a place where we can do a breakout session for beginners
 - [ ] Create event page on Meetup.com once date/venue is confirmed (may need to TBD lightning talk if not yet confirmed)
+  - [ ] Clone [past event page](https://www.meetup.com/Elm-LA/events/254008123/)
   - [ ] Post agenda
   - [ ] Post CoC
   - [ ] Post venue location & any special instructions (access to building, parking, etc.)
