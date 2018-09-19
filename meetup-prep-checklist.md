@@ -16,7 +16,8 @@ Based on prior meetups, this documents our current process for preparing for an 
 - [ ] Find speaker for 15-min lightning talk
 - [ ] Confirm facilitator for the meetup
 - [ ] Review [beginner's workshop doc](./resources/elm-camp-lite.md) & confirm facilitators for workshop
-- [ ] Make feedback form for event (clone [template](<(https://docs.google.com/forms/d/1WiLbqrMIVRty3NzhLFA0UjghC_JO8c1-FEdSDewVO7I/edit?usp=sharing)>) and update with correct date)
+- [ ] Make feedback form for event
+  - [ ] clone [template](https://docs.google.com/forms/d/1WiLbqrMIVRty3NzhLFA0UjghC_JO8c1-FEdSDewVO7I/edit?usp=sharing) and update with correct date
 - [ ] Make slides for event with:
   - [ ] Agenda
   - [ ] Announcements
