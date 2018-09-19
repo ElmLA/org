@@ -46,12 +46,13 @@ By the end of this, you will:
     - We'll use the [`input`](https://package.elm-lang.org/packages/elm-lang/html/latest/Html#input) function from [html/Html](https://package.elm-lang.org/packages/elm-lang/html/latest/Html)
   - Add functionality to input element for handling [`onInput`](https://package.elm-lang.org/packages/elm-lang/html/latest/Html-Events#onInput)
   - On input, update the model with the string input
-    - This will require that our model hold more than just the current value of the calculator
-      - Create a `Model` type alias to hold both the calulator's current value as well as the current input value
+    - This will require that our model hold more than just the current value of the calculator; we can use a [record](https://elm-lang.org/docs/records) to do this!
+      - Create a `Model` [type alias](https://guide.elm-lang.org/types/type_aliases.html) for this record
       - This changes a lot for our app! But the compiler can help us identify where we need to update things to accomodate the change in data structure for our model.
+      - One thing that we will need to do is, in response to different `Msg`s, return an updated
     - We also need a new `Msg`
       - Add the new `Msg`
-      - Hey look! The compiler new that we added a new `Msg` and it needs to be handled in the `update` function!
+      - Hey look! The compiler knew that we added a new `Msg` and it needs to be handled in the `update` function!
   - _Your turn_: add a `text` element that renders the stored input value in the model
 - _Stretch your turn (pair with a buddy!)_: Can you modify your project so that the +/- buttons increment/decrement based on the value inputted in the input box?
   - Note: the input will come in as a `String`, but you'll need your value as an `Int` (or maybe a `Float`!) if you are going to increment/decrement
