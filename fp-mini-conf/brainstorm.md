@@ -13,3 +13,7 @@ This is a living doc for us to think through stuff and put our thoughts down.
   - [ ] Code of Conduct
   - [ ] Accessibility: facilities should be ADA accessible (and _actually_ accessible), will there be coverage for folks who have child care needs?, are there bathrooms for everyone?, etc.
 - [ ] Process: how often should we sync and how do we sync up?
+
+## Resources / inspo
+
+- [BridgeTroll](https://www.bridgetroll.org/) - lists all the different bridge events. They even provide a list of recommendations for planning that is waaaaay more inclusive of my sloppy notes above! [WorkshopCookbook](https://github.com/bridgefoundry/WorkshopCookbook/wiki/Cookbook)
