@@ -13,7 +13,7 @@ Based on prior meetups, this documents our current process for preparing for an 
   - [ ] Post agenda
   - [ ] Post CoC
   - [ ] Post venue location & any special instructions (access to building, parking, etc.)
-  - [ ] Thank venue host
+  - [ ] Thank venue host (get logo & blurb if venue host would like that information posted)
 - [ ] Find speaker for 15-min lightning talk
 - [ ] Confirm facilitator for the meetup
 - [ ] Review [beginner's workshop doc](./resources/elm-camp-lite.md) & confirm facilitators for workshop
@@ -27,3 +27,10 @@ Based on prior meetups, this documents our current process for preparing for an 
   - [ ] Facilities info (wifi, any special notes)
   - [ ] Feedback link (update tiny.cc link to point to current feedback form) & ask
 - [ ] A few days before meetup, check RSVP list and check in with point-of-contact at venue to confirm logistics & give them a headcount for ordering food
+- [ ] Day of
+ - [ ] Nametags
+ - [ ] Signs (if needed) for facilities
+- [ ] Post meetup
+  - [ ] Thank venue
+  - [ ] Review feedback
+  - [ ] Do it all over again!
