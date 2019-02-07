@@ -28,8 +28,8 @@ Based on prior meetups, this documents our current process for preparing for an 
   - [ ] Feedback link (update tiny.cc link to point to current feedback form) & ask
 - [ ] A few days before meetup, check RSVP list and check in with point-of-contact at venue to confirm logistics & give them a headcount for ordering food
 - [ ] Day of
- - [ ] Nametags
- - [ ] Signs (if needed) for facilities
+  - [ ] Nametags
+  - [ ] Signs (if needed) for facilities
 - [ ] Post meetup
   - [ ] Thank venue
   - [ ] Review feedback
