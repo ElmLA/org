@@ -1,4 +1,4 @@
-# Elm Camp 2018
+# Elm Camp
 
 You will use the [GitHub API](https://developer.github.com/v3/) to create a small front-end application that will take user-supplied input and return a list of GitHub users whose usernames contain the input string.
 

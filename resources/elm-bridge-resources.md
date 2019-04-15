@@ -12,8 +12,8 @@
 - Conferences:
     - Elm in the Spring (Chicago 4/26): [elminthespring.org](http://elminthespring.org/)
         - Attendee & ticket grants (due Tues, April 16 at 3:00 pm EST): [https://forms.gle/MLG3ybSoG9UAETqNA](https://forms.gle/MLG3ybSoG9UAETqNA)
-    - Elm Europe (Paris 6/27-6/28): [elm-europe.com](http://elm-europe.com/)
-    - elm-conf (St. Louis 9/12): elm-conf.com
+    - Elm Europe (Paris 6/27-6/28): [elmeurope.org](http://elmeurope.org/)
+    - elm-conf (St. Louis 9/12): [elm-conf.com](http://elm-conf.com)
         - Call for proposals are now open and close 5/10 (if you submit by 5/5, you'll get personalized feedback).  If you'd like support in coming up with a topic, crafting a proposal, etc. please fill out this form to let us know how we can best support you! [https://emmacunningham.typeform.com/to/Mwf49r](https://emmacunningham.typeform.com/to/Mwf49r)
 - Help organize a future ElmBridge LA! - We'd love to do more of these in the future.  If you'd like to help organize a future event, please let us know!
 
